@@ -1,5 +1,6 @@
 
-//Designing a structure student_record to contain name, roll_number, and total marks obtained. Write a program to read 5 students data from the user and then display the topper on the screen.
+//Designing a structure student_record to contain name, roll_number, and total marks obtained. 
+//Write a program to read 5 students data from the user and then display the topper on the screen.
 #include <stdio.h>
 #include <string.h>
 struct student_record {
